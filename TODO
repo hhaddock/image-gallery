@@ -1,0 +1,7 @@
+TODO:
+
+[] Environment Variables
+[] Ignore files for AWS credentials
+[] Build out image functionality
+    - [] Service to communicate with Digital Ocean and save info to db
+    - [] Controller to randle request / response
